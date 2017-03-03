@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Utente\\AndroidStudioProjects\\SampleJsonParser-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_location_on_black_24dp.png",
+        "source": "C:\\Users\\Utente\\AndroidStudioProjects\\SampleJsonParser-master\\app\\src\\main\\res\\drawable-mdpi\\ic_location_on_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\AndroidStudioProjects\\SampleJsonParser-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_phone_black_24dp.png",
+        "source": "C:\\Users\\Utente\\AndroidStudioProjects\\SampleJsonParser-master\\app\\src\\main\\res\\drawable-mdpi\\ic_phone_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\AndroidStudioProjects\\SampleJsonParser-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_github.png",
+        "source": "C:\\Users\\Utente\\AndroidStudioProjects\\SampleJsonParser-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_github.png"
+    },
+    {
+        "merged": "C:\\Users\\Utente\\AndroidStudioProjects\\SampleJsonParser-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\placeholder.png",
+        "source": "C:\\Users\\Utente\\AndroidStudioProjects\\SampleJsonParser-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\placeholder.png"
+    }
+]

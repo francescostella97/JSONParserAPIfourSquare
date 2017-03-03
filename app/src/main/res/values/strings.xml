@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JsonParseSample</string>
+    <string name="sample_api">sample api</string>
+    <string name="local_json">local json</string>
+    <string name="search_label">search place</string>
+    <string name="city_label">your city</string>
+    <string name="go">Go</string>
+</resources>
